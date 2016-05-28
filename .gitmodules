@@ -1,0 +1,3 @@
+[submodule "rtmpdump"]
+	path = rtmpdump
+	url = https://github.com/songsmith/rtmpdump
